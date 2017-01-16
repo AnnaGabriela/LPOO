@@ -1,0 +1,4 @@
+9
+6;miro;cafemiro2016;Café Miró;5;1/Café/8.0;2/Frapê/12.0;3/Pão de Queijo/7.0;4/Sopa/18.0
+5;mc;mcdonalds2016;McDonalds;3;1/Combo BigMac/25.0
+4;bk;burguerking;Burguer King;4;1/Combo Cheddar/20.0;2/Combo 2/12.0;3/Combo 1/12.0
